@@ -14,8 +14,8 @@ https://www.youtube.com/watch?v=SFTgReTlzws&list=PLMhAeHCz8S38HfrRtzfzFD5NTbjgQx
 ### This si the channel
 https://www.youtube.com/c/DappUniversity/playlists
 
-### This is what I'm learning so far
-
+### This is what I'm learning
+https://www.youtube.com/watch?v=xWFba_9QYmc&t=6431s
 #### His repo
 https://github.com/dappuniversity
 """
