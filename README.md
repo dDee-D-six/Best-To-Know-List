@@ -3,7 +3,7 @@ This repo is for note and bookmark something that I'm interesting in. XD
 
 ## Youtube Chanel for practice backend using nodeJS
 
-This is the channel
+# This is the channel
 https://www.youtube.com/c/Classsed/playlists
 
 This is what I'm interesing in
